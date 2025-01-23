@@ -1,2 +1,2 @@
 # delta-demo
-This is a emo for git &amp; github
+This is a emo for git &amp; github.
